@@ -8,11 +8,15 @@ version = "0.0.0"
 requires-python = ">=3.9"
 dependencies = [
     'exceptiongroup; python_version<"3.11"',
+    "pre-commit",
     "jupyterlab",
     "altair",
     "pandas",
     "pyarrow",
-    "pre-commit",
+    "xarray",
+    "h5netcdf",
+    "cdsapi",
+    "ecmwf-opendata",
 ]
 authors = [
   { name="Ben Welsh", email="b@palewi.re" },
