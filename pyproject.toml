@@ -10,14 +10,18 @@ dependencies = [
     'exceptiongroup; python_version<"3.11"',
     "pre-commit",
     "jupyterlab",
+    "matplotlib",
     "altair",
     "pandas",
+    "numpy",
+    "geopandas",
     "pyarrow",
     "xarray",
     "scipy",
     "h5netcdf",
     "cdsapi",
     "ecmwf-opendata",
+    "metpy",
 ]
 authors = [
   { name="Ben Welsh", email="b@palewi.re" },
