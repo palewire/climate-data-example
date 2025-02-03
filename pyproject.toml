@@ -12,6 +12,7 @@ dependencies = [
     "altair",
     "pandas",
     "pyarrow",
+    "pre-commit",
 ]
 authors = [
   { name="Ben Welsh", email="b@palewi.re" },
