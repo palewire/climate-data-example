@@ -14,6 +14,7 @@ dependencies = [
     "pandas",
     "pyarrow",
     "xarray",
+    "scipy",
     "h5netcdf",
     "cdsapi",
     "ecmwf-opendata",
