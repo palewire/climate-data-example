@@ -1,1 +1,1 @@
-A rough example of how to use the European weather agency gridded climate data
+An example of how to use the European weather agency's gridded climate data
